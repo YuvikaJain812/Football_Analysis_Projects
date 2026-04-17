@@ -1,4 +1,4 @@
-# Football_Analysis_Projects
+# football-performance-analysis
 Excel-based analysis projects using English Premier League data
 ### Darwin_nunez_analysis 
 A project based upon analysis of frowards data of Liverpool FC across three seasons (2022/23, 2023/24 & 2024/25) to analyze effectivness and efficiency of Darwin Nunez in the team. 
