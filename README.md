@@ -26,3 +26,8 @@ Includes:
 - team contribution and minutes share
 - penalty-adjusted metrics
 - pivot table comparisons 
+Tools Used:
+- Microsoft Excel
+- Pivot Tables
+- Per 90 normalization
+- Share-based perofrmance metrics
