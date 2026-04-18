@@ -25,9 +25,13 @@ Includes:
 - per 90' metrics
 - team contribution and minutes share
 - penalty-adjusted metrics
-- pivot table comparisons 
-### 
-Tools Used:
+- pivot table comparisons
+### Bmunich_predictive_model
+Predictive Models
+- Bayern Munich attacking output prediction (share-based model)
+- Uses weighted averages and normalized contribution shares
+- Includes growth-adjusted and baseline predictions
+### Tools Used:
 - Microsoft Excel
 - Pivot Tables
 - Per 90 normalization
